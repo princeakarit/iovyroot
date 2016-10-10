@@ -235,6 +235,9 @@ struct offsets offsets[] = {
 	  { (void*)CHECK_FLAGS_OFFSET(0xffffffc001950590) },
 	  (void*)0xffffffc0003c66e0, (void*)0xffffffc00030f4e0, (void*)0xffffffc001887940,
 	  (void*)0xffffffc001887748, (void*)0xffffffc00164ad48, (void*)0xffffffc00188429c },
+	
+	/********************** PAHTECH/HISENSE **********************/
+	//V955
 	{"Pantech V955", "Linux version 3.10.49-perf-gfe83209-00251-g3121e0c (root@android-vpc) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Sun Mar 27 18:15:14 CST 2016",
 	  {(void*)CHECK_FLAGS_OFFSET(0xffffffc0010a4fe0)},
 	  ((void*)0xffffffc0001a83c0),((void*)0xffffffc00017667c),((void*)0xffffffc0010083a8),
